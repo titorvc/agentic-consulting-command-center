@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.env
+pgdata/
+Obsidian_Vault/
+node_modules/
+frontend/dist/
+*.db
+*.log

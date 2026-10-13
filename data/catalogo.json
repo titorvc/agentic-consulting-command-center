@@ -1,0 +1,37 @@
+[
+    {
+        "id": "P1",
+        "nombre": "Bot de WhatsApp Automatizado",
+        "descripcion": "Asistente virtual conversacional que responde FAQs, agenda citas y califica leads 24/7.",
+        "precio_base": 800,
+        "stack": "Meta Cloud API + FastAPI + Llama 3"
+    },
+    {
+        "id": "P2",
+        "nombre": "Dashboard de Inteligencia de Negocios (BI)",
+        "descripcion": "Panel interactivo para visualizar métricas clave, ventas y operaciones en tiempo real.",
+        "precio_base": 1200,
+        "stack": "Streamlit + PostgreSQL"
+    },
+    {
+        "id": "P3",
+        "nombre": "Generador Automático de Reportes",
+        "descripcion": "Sistema que consolida datos y envía PDFs ejecutivos o Excels automáticos semanales.",
+        "precio_base": 600,
+        "stack": "Python + ReportLab + APScheduler"
+    },
+    {
+        "id": "P4",
+        "nombre": "Pipeline ETL Empresarial",
+        "descripcion": "Tubería de datos que extrae, limpia y centraliza información de múltiples fuentes dispersas.",
+        "precio_base": 1500,
+        "stack": "Apache Airflow + pandas + PostgreSQL"
+    },
+    {
+        "id": "P5",
+        "nombre": "CRM Inteligente con Scoring",
+        "descripcion": "Gestor de relaciones con clientes que utiliza IA para predecir la probabilidad de cierre de ventas.",
+        "precio_base": 2500,
+        "stack": "FastAPI + React + pgvector"
+    }
+]

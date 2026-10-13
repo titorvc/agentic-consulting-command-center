@@ -1,0 +1,7 @@
+streamlit
+langgraph
+pyyaml
+pandas
+fastapi
+uvicorn
+psycopg2-binary
